@@ -1,0 +1,3 @@
+import string
+alphabet_string_lowercase=string.ascii_lowercase
+print (alphabet_string_lowercase)

@@ -1,0 +1,2 @@
+AlpbabetInverse ="zyxwvutrqponmlkjihgfedcba"
+print(AlpbabetInverse) 
